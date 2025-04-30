@@ -62,7 +62,7 @@ Click the badge below to launch an interactive version in your browser:
 
 ## 📈 Sample Output
 
-![Example from Jupyter Notebooks](\images\EPI_map.JPG)
+![Example from Jupyter Notebooks](images\example_output.JPG)
 
 ---
 
