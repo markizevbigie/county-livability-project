@@ -62,7 +62,7 @@ Click the badge below to launch an interactive version in your browser:
 
 ## 📈 Sample Output
 
-![Example from Jupyter Notebooks](images\example_output.JPG)
+![Example Output](images/example_output.JPG)
 
 ---
 
