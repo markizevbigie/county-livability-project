@@ -46,8 +46,7 @@ Choosing a place to live can feel overwhelming. This project simplifies that dec
 ## 🚀 Try it in Binder
 
 Click the badge below to launch an interactive version in your browser:
-
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](PASTE_YOUR_BINDER_LINK_HERE)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/markizevbigie/county-livability-project/main?urlpath=%2Fdoc%2Ftree%2Fmap_project.ipynb)
 
 ---
 
