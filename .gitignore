@@ -24,7 +24,3 @@ env/
 # Ignore logs and temporary files
 *.log
 *.tmp
-
-# Ignore Images
-*.JPG
-*.PNG
