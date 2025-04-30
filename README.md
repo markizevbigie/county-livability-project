@@ -1,4 +1,4 @@
-# My Data Analysis Project
+# Affordability of Living in Florida by County
 
 This project visualizes county data for Florida, showing affordability ratings based on various factors like income and cost of living.
 
@@ -62,7 +62,7 @@ Click the badge below to launch an interactive version in your browser:
 
 ## 📈 Sample Output
 
-![Example from Jupyter Notebooks](example.JPG)
+![Example from Jupyter Notebooks](\images\EPI_map.JPG)
 
 ---
 
