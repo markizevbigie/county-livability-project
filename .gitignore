@@ -1,0 +1,30 @@
+# Ignore data and shapefiles
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.xml
+*.zip
+*.geojson
+*.json
+*.csv
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore Images
+*.JPG
+*.PNG
