@@ -32,17 +32,8 @@ Place the data folder at the project root. The notebook expects data/florida_cou
 
 ## 🚀 Or try it in Binder
 
-Likewise, click the badge below to launch an interactive version in your browser:
+Likewise, click the badge here to launch an interactive version in your browser:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/markizevbigie/county-livability-project/main?urlpath=%2Fdoc%2Ftree%2Fmap_project.ipynb)
-
----
-
-## 💡 Key Features
-
-- 📊 Visualize affordability across Florida's counties.
-- 👨‍👩‍👧 Household-size specific cost of living comparisons.
-- 💵 Adjusts for income levels from $0 to $200,000.
-- 🧮 Includes affordability ratios and surplus/deficit values.
 
 ---
 
@@ -52,6 +43,15 @@ Likewise, click the badge below to launch an interactive version in your browser
 2. Open the Jupyter Notebook.
 3. Adjust the income and household size inputs to view affordability.
 4. View color-coded county maps and output summaries.
+
+---
+
+## 💡 Key Features
+
+- 📊 Visualize affordability across Florida's counties.
+- 👨‍👩‍👧 Household-size specific cost of living comparisons.
+- 💵 Adjusts for income levels from $0 to $200,000.
+- 🧮 Includes affordability ratios and surplus/deficit values.
 
 ---
 
