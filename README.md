@@ -9,6 +9,7 @@ To run this project, you will need Python and the following libraries:
 - geopandas
 - folium
 - numpy
+- openpyxl
 
 # 🗺️ Florida Affordability Map
 
