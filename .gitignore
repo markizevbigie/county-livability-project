@@ -6,7 +6,6 @@
 *.cpg
 *.xml
 *.zip
-*.geojson
 *.json
 *.csv
 
