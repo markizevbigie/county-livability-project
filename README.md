@@ -21,6 +21,7 @@ This interactive map helps users explore the affordability of Florida counties b
 
 Choosing a place to live can feel overwhelming. This project simplifies that decision by providing a visual tool that compares household income to the cost of living in each Florida county. Users can quickly see where they can afford to live, based on income and household size.
 
+![Video Summary](https://youtu.be/IKXP2eBfmPk)
 ---
 
 ## 💡 Key Features
