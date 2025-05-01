@@ -2,6 +2,18 @@
 
 This interactive map helps users explore the affordability of Florida counties based on household income and cost of living data.
 
+---
+
+## 📌 Project Overview
+
+Choosing a place to live can feel overwhelming. This project simplifies that decision by providing a visual tool that compares household income to the cost of living in each Florida county. Users can quickly see where they can afford to live, based on income and household size.
+
+*You can click the image here to get a 45-second summary on YouTube*
+
+[![Watch the video](https://img.youtube.com/vi/IKXP2eBfmPk/0.jpg)](https://youtu.be/IKXP2eBfmPk)
+
+---
+
 ## Installation
 
 To run this project, you will need Python and the following libraries:
@@ -22,16 +34,6 @@ Place the data folder at the project root. The notebook expects data/florida_cou
 
 Likewise, click the badge below to launch an interactive version in your browser:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/markizevbigie/county-livability-project/main?urlpath=%2Fdoc%2Ftree%2Fmap_project.ipynb)
-
----
-
-## 📌 Project Overview
-
-Choosing a place to live can feel overwhelming. This project simplifies that decision by providing a visual tool that compares household income to the cost of living in each Florida county. Users can quickly see where they can afford to live, based on income and household size.
-
-*You can click the image here to get a 45-second summary on YouTube*
-
-[![Watch the video](https://img.youtube.com/vi/IKXP2eBfmPk/0.jpg)](https://youtu.be/IKXP2eBfmPk)
 
 ---
 
