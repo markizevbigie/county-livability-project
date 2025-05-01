@@ -92,5 +92,5 @@ Hi, I’m Mark! I enjoy simplifying complex decisions using data. If you're inte
 
 ## 📬 Contact
 
-- [LinkedIn](www.linkedin.com/in/mark-izevbigie)
-- [Email](mailto:markizevbigie@gmail.com)
+- LinkedIn: www.linkedin.com/in/mark-izevbigie
+- Email: markizevbigie@gmail.com
