@@ -1,19 +1,27 @@
 # Affordability of Living in Florida by County
 
-This project visualizes county data for Florida, showing affordability ratings based on various factors like income and cost of living.
+This interactive map helps users explore the affordability of Florida counties based on household income and cost of living data.
 
 ## Installation
 
 To run this project, you will need Python and the following libraries:
-- pandas
-- geopandas
-- folium
-- numpy
-- openpyxl
 
-# 🗺️ Florida Affordability Map
+- Python
+	- pandas
+	- geopandas
+	- folium
+	- numpy
+	- openpyxl
+- Jupyter Notebook
 
-This interactive map helps users explore the affordability of Florida counties based on household income and cost of living data.
+Place the data folder at the project root. The notebook expects data/florida_counties.geojson and data/fbc_data_2024.xlsx.
+
+---
+
+## 🚀 Or try it in Binder
+
+Likewise, click the badge below to launch an interactive version in your browser:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/markizevbigie/county-livability-project/main?urlpath=%2Fdoc%2Ftree%2Fmap_project.ipynb)
 
 ---
 
@@ -33,25 +41,6 @@ Choosing a place to live can feel overwhelming. This project simplifies that dec
 - 👨‍👩‍👧 Household-size specific cost of living comparisons.
 - 💵 Adjusts for income levels from $0 to $200,000.
 - 🧮 Includes affordability ratios and surplus/deficit values.
-
----
-
-## 🧰 Technologies Used
-
-- Python
-	- pandas
-	- geopandas
-	- folium
-	- numpy
-- Jupyter Notebook
-- Binder (for launching notebook)
-
----
-
-## 🚀 Try it in Binder
-
-Click the badge below to launch an interactive version in your browser:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/markizevbigie/county-livability-project/main?urlpath=%2Fdoc%2Ftree%2Fmap_project.ipynb)
 
 ---
 
